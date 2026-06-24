@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ali Raza<br>🚀 Full-stack developer passionate about building modern web & mobile apps<br>💡 Love working with React, Node.js, Go, and Supabase<br>🌍 Currently exploring open-source projects and scalable SaaS ideas<br>📫 Reach me at: [Ali Raza](https://www.aliiraza.icu)
+👋 Hi, I’m Ali Raza<br>🚀 Full-stack developer passionate about building modern web & mobile apps<br>💡 Love working with React, Node.js, Go, and Supabase<br>🌍 Currently exploring open-source projects and scalable SaaS ideas<br>📫 Reach me at: [Ali Raza](https://www.aliiraza.click)
 
 
 ## 🌐 Socials:
